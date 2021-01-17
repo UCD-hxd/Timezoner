@@ -4,7 +4,7 @@
   "description": "Getting start example",
   "permissions": ["storage", "declarativeContent","activeTab"],
   "background": {
-    "scripts": ["background.js","popup.js"],
+    "scripts": ["background.js","popup.js","loadTimeZone.js"],
     "persistant": false
   },
 
