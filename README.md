@@ -8,7 +8,7 @@ Project for HackDavis 2021
 *   Automatically convert time to local time
 *   Social-good project & helper for all international students
 
-## Project Preview with scratch
+## Project Preview
 
 ![](project-preview/preview_Draft1.jpg?raw=true)
 
@@ -16,5 +16,5 @@ Project for HackDavis 2021
 
 
 
-with by UCD hxd
+![](icons/code.png?raw=true) with ![](icons/love-fill.png?raw=true) by UCD hxd
 
